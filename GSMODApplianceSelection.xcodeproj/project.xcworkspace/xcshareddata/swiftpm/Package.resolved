@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa",
+        "state": {
+          "branch": null,
+          "revision": "1c105d34f25af7851c5a3ff146be006de247a6b4",
+          "version": "10.54.6"
+        }
+      },
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core.git",
+        "state": {
+          "branch": null,
+          "revision": "cccb3ca9e26ec452a29f2f0d4050d1e38b8a3d43",
+          "version": "14.14.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "5dd1907d64f0d36f158f61a466bab75067224893",
+          "version": "6.9.0"
+        }
+      },
+      {
+        "package": "Rx-swift-composable-architecture",
+        "repositoryURL": "https://github.com/bioche/RxSwiftComposableArchitecture",
+        "state": {
+          "branch": null,
+          "revision": "a567b7913b5d192ae7b6bfd9e90bfb0e19c694bd",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+        "state": {
+          "branch": null,
+          "revision": "8cba041db09596183331d123f337d0eb2e6e8e91",
+          "version": "2.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

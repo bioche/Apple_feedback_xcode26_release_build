@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8292C4C0-E026-4EAA-93F5-D60FDC90DAFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A064D32-6E09-4852-8CC9-9D011B747892"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/GSMODApplianceSelectionView/CoreML/CoreMLViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "update(latestConfidences:recognizedWords:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64AB093E-4E87-45EC-85F6-5ACDAFAACD74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/GSMODApplianceSelectionView/Views/ImageRecognitionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "getApplianceListView(appliances:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64AB093E-4E87-45EC-85F6-5ACDAFAACD74 - f5bca91539390669"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GSMODApplianceSelectionView.ImageRecognitionView.getApplianceListView(appliances: Swift.Array&lt;GSMODApplianceSelectionKit.Appliance&gt;) -&gt; some"
+                  moduleName = "GSMODApplianceSelectionExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ericblachere/Documents/iOS/SEB/functional_modules/GSMOD-iOS-ApplianceSelection/Sources/GSMODApplianceSelectionView/Views/ImageRecognitionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123">
+               </Location>
+               <Location
+                  uuid = "64AB093E-4E87-45EC-85F6-5ACDAFAACD74 - 67797d558ba1bc9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Array&lt;GSMODApplianceSelectionKit.Appliance&gt;, GSMODApplianceSelectionKit.Appliance, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in GSMODApplianceSelectionView.ImageRecognitionView.getApplianceListView(appliances: Swift.Array&lt;GSMODApplianceSelectionKit.Appliance&gt;) -&gt; some"
+                  moduleName = "GSMODApplianceSelectionExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ericblachere/Documents/iOS/SEB/functional_modules/GSMOD-iOS-ApplianceSelection/Sources/GSMODApplianceSelectionView/Views/ImageRecognitionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C0A1AE8-2F67-4CFF-AF09-430D6FA096D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/GSMODApplianceSelectionKit/Services/KitchenwaresRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getKitchenwares(applianceGroup:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
