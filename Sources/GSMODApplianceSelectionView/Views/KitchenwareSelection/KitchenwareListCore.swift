@@ -37,7 +37,7 @@ public struct KitchenwareListCore<Cores: ApplianceCoreInterfaces>: TCACore {
         var pendingSelectedKitchenwares: [KitchenwareId] = []
         var isLoading: Bool = false
         
-        var errorAlert: RxComposableArchitecture.AlertState<Action>?
+//        var errorAlert: RxComposableArchitecture.AlertState<Action>?
         
         var alreadySelectedKitchenwares: [KitchenwareId] {
             switch productState {

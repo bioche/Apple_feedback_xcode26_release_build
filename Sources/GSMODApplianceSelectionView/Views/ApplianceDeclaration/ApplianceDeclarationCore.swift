@@ -51,7 +51,7 @@ public struct ApplianceDeclarationCore<Cores: ApplianceCoreInterfaces>: TCACore 
             selectedKitchenwares.count
         }
         
-        var errorAlert: AlertState<Action>?
+//        var errorAlert: AlertState<Action>?
         @CopyOnWrite var kitchenwareList: KitchenwareListCore<Cores>.State?
         @CopyOnWrite var capacitySelection: CapacitySelectionCore.State?
         

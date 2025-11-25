@@ -47,8 +47,8 @@ public struct ProductDetailsCore<Cores: ApplianceCoreInterfaces>: TCACore {
             return false
         }
         
-        var errorAlert: AlertState<Action>?
-        var confirmationDeleteAlert: AlertState<Action>?
+//        var errorAlert: AlertState<Action>?
+//        var confirmationDeleteAlert: AlertState<Action>?
         
         @CopyOnWrite var kitchenwareList: KitchenwareListCore<Cores>.State?
         
